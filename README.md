@@ -1,4 +1,4 @@
-# Amazon-Sales-Analysis-using-Power-Bi
+# Amazon_Sales_Analysis using PowerBi
 This dashboard transforms raw e-commerce data into meaningful insights, helping businesses make smarter decisions. <br/><br/>
 The dashboard highlights:<br/>
 💰 $2.18M in YTD Sales<br/>
