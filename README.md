@@ -13,4 +13,7 @@ This dashboard transforms raw e-commerce data into meaningful insights, helping 
 * SanDisk leads in customer engagement via reviews<br/>
 * The Mobile Accessories segment underperforms, indicating areas to optimize marketing and inventory strategies
 
+## Dashboard Screenshot <br/>
+
+![image](https://github.com/user-attachments/assets/0a55e083-600b-45f0-90cc-41a0c6f0bf18)
 
